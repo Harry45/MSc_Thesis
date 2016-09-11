@@ -1,7 +1,11 @@
 <h1>MSc Thesis</h1>
 
 <section>
-	<p align="justify">I have been working mostly on Bayesian Statistical Method for my Masters' research. In particular, </a></p>
+	<p align="justify">I have been working mostly on Bayesian Statistical Method for my Masters' research. In particular, we have have developed a nice way of doing Bayesian Model Comparison using Savage-Dickey Density Ratio (SDDR). Refer to the section below for further details. Moreover, as the second part of the thesis, the aim is to predict the likely distance between two point sources which are on top of each other, but buried in noise.</a></p>
+
+## Bayesian Inference and Bayesian Model Selection
+<section>
+	<p align="justify"> <a></p>
 
 
 <!--
