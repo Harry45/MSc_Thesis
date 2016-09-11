@@ -5,7 +5,7 @@
 
 ## Bayesian Inference and Bayesian Model Selection
 
-<p align="center"><img src="Figures/latex-image-1.png" alt="bayes_inf" width="600" height="300"></p>
+<p align="center"><img src="Figures/bayes_inf.png" alt="bayes_inf" width="600" height="300"></p>
 
 <section>
 	<p align="justify"> <a></p>
