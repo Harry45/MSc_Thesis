@@ -29,7 +29,7 @@
 
 <p align="center"><img src="Figures/Jones_cropped.png" alt="Jones_Matrix" width="100%" height="100%"></p>
 
-<p align="justify"> Therefore, given the observed signal (the data), can we say at what distance two point sources might be separated of they are both on top of each other, but buried in noise? This becomes trivial as use Bayesian formalism to simply maginalise over the noise.<a></p>
+<p align="justify"> Therefore, given the observed signal (the data), can we say at what distance two point sources might be separated of they are both on top of each other, but buried in noise? This becomes trivial as we use Bayesian formalism to simply maginalise over the noise.<a></p>
 <!--
 This is a comment
 
