@@ -5,10 +5,9 @@
 
 ## Bayesian Inference and Bayesian Model Selection
 
-<p align="center"><img src="Figures/trial_last.png" alt="bayes_inf" width="50%" height="50%"></p>
+<p align="center"><img src="Figures/Figure_1.png" alt="bayes_inf" width="50%" height="50%"></p>
 
-<section>
-	<p align="justify"> <a></p>
+<p align="justify"> While in Bayesian Parameter Estimation, the marginal likelihood is irrelevant (as it is independent of the model parameters), it is crucial in Bayesian Model Selection. For example, using Bayes' Theorem again, <a></p>
 
 
 <!--
