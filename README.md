@@ -5,7 +5,9 @@
 
 ## Bayesian Inference and Bayesian Model Selection
 
-<p align="center"><img src="Figures/Figure_1.png" alt="bayes_1" width="50%" height="50%"></p>
+<p align="justify"> In the most simplest way, we can state that the posterior distribution of a set of parameters is proportional to the productt of the likelihood and the prior. The denominator (evidence or marginal likelihood) simply acts as a normalisation constant but is crucial in Bayesian model comparison.<a></p>
+
+<p align="center"><img src="Figures/Figure_5.png" alt="bayes_5" width="50%" height="50%"></p>
 
 <p align="justify"> While in Bayesian Parameter Estimation, the marginal likelihood is irrelevant (as it is independent of the model parameters), it is crucial in Bayesian Model Selection. For example, using Bayes' Theorem again, <a></p>
 
