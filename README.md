@@ -5,7 +5,7 @@
 
 ## Bayesian Inference and Bayesian Model Selection
 
-<p align="justify"> In the most simplest way, we can state that the posterior distribution of a set of parameters is proportional to the productt of the likelihood and the prior. The denominator (evidence or marginal likelihood) simply acts as a normalisation constant but is crucial in Bayesian model comparison.<a></p>
+<p align="justify"> In the most simplest way, we can state that the posterior distribution of a set of parameters is proportional to the product of the likelihood and the prior. The denominator (evidence or marginal likelihood) simply acts as a normalisation constant but is crucial in Bayesian model comparison.<a></p>
 
 <p align="center"><img src="Figures/Figure_5.png" alt="bayes_5" width="30%" height="30%"></p>
 
@@ -25,6 +25,11 @@
 
 ## Radio Astronomy
 
+<p align="justify">In radio interferometry, the signal received from a source (or collection of sources) can be modelled using the Radio Interferometric Measurement Equation <a href="https://arxiv.org/abs/1101.1764">(RIME)</a>. In particular, as the signal propagates through space, it undergoes a series of "transformation" which can each be represented by a Jones Matrix as shown in the figure below.<a></p>
+
+<p align="center"><img src="Figures/Jones_cropped.png" alt="Jones_Matrix" width="100%" height="100%"></p>
+
+<p align="justify"> Therefore, given the observed signal (the data), can we say at what distance two point sources might be separated of they are both on top of each other, but buried in noise? This becomes trivial as use Bayesian formalism to simply maginalise over the noise.<a></p>
 <!--
 This is a comment
 
