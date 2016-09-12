@@ -9,11 +9,11 @@
 
 <p align="justify"> While in Bayesian Parameter Estimation, the marginal likelihood is irrelevant (as it is independent of the model parameters), it is crucial in Bayesian Model Selection. For example, using Bayes' Theorem again, <a></p>
 
-<p align="center"><img src="Figures/Figure_2.png" alt="bayes_2" width="50%" height="50%"></p>
+<p align="center"><img src="Figures/Figure_2.png" alt="bayes_2" width="30%" height="30%"></p>
 
 <p align="justify"> Therefore, if we have two competing models, <a></p>
 
-<p align="center"><img src="Figures/Figure_3.png" alt="bayes_3" width="50%" height="50%"></p>
+<p align="center"><img src="Figures/Figure_3.png" alt="bayes_3" width="30%" height="30%"></p>
 
 <p align="justify"> In words, <a></p>
 
